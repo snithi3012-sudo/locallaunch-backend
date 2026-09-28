@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Build output
+out/
+
+# Environment / secrets
+.env
+.env.*
+
+# Uploaded files
+uploads/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
